@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Puissance4/1.0.0": {
+        "dependencies": {
+          "looger": "1.0.0"
+        },
+        "runtime": {
+          "Puissance4.dll": {}
+        }
+      },
+      "looger/1.0.0": {
+        "runtime": {
+          "looger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Puissance4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "looger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
